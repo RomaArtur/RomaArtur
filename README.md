@@ -53,10 +53,7 @@ Estudante de Tecnologia da Informação pela UNIVESP, com formação técnica em
   <a href="https://bit.ly/4lTIueG" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="82" height="70" alt="whatsapp logo"  />
   </a>
-  <a href="mailto: arturromafurtado@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="82" height="70" alt="gmail logo"  />
-  </a>
-</div>
+
 
 ###
 
