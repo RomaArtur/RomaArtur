@@ -66,7 +66,3 @@ Estudante de Tecnologia da Informação pela UNIVESP, com formação técnica em
 
 ###
 
-###
-Github
-DonateDoar
-ShareCompartilhar
