@@ -42,21 +42,6 @@ Estudante de Tecnologia da Informação pela UNIVESP, com formação técnica em
 
 ###
 
-<h1 align="left">REDES SOCIAIS</h1>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/artur-roma-furtado/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="82" height="70" alt="linkedin logo"  />
-  </a>
-  <a href="https://bit.ly/4lTIueG" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="82" height="70" alt="whatsapp logo"  />
-  </a>
-
-
-###
-
 <div align="center">
   <img height="200" src="https://media.tenor.com/-pAGB1QL15wAAAAi/crash-bandicoot-crash.gif"  />
 </div>
