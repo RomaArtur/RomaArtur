@@ -45,9 +45,7 @@ Estudante de Tecnologia da Informação pela UNIVESP, com formação técnica em
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.tenor.com/-pAGB1QL15wAAAAi/crash-bandicoot-crash.gif"  />
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 ###
 
