@@ -25,24 +25,6 @@ Estudante de Tecnologia da Informação pela UNIVESP, com formação técnica em
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="css logo"  />
   <img width="12" />
 
----
-
-
-
-###
-
-###
-
-<h1 align="left">ESTATÍSTICA</h1>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RomaArtur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=RomaArtur&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RomaArtur&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
-
 ###
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
