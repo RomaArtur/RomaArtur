@@ -2,8 +2,7 @@
 
 # SOBRE MIM
 
-Estudante de Tecnologia da Informação pela UNIVESP, com formação técnica em Administração (ETEC) e mais de 2 anos de experiência com rotinas administrativas, suporte em TI, automações e dados. 
-
+Estudante de Tecnologia da Informação (UNIVESP) com formação técnica em Administração (ETEC) e mais de 2 anos de experiência em suporte, automações, análise de dados e rotinas administrativas. Busco estágio na área de Tecnologia.
 ---
 <h1 align="left">TECNOLOGIAS</h1>
 
