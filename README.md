@@ -2,8 +2,7 @@
 
 # SOBRE MIM
 
-Estudante de TI e Técnico em Administração com mais de 2 anos de experiência em automação, análise de dados e suporte técnico, buscando oportunidade para aplicar e expandir habilidades em desenvolvimento e tecnologia.
-
+Estudante de TI e Técnico em Administração com mais de 2 anos de experiência em automação, análise de dados e suporte técnico, buscando oportunidade para aplicar e expandir habilidades.
 <h1 align="left">TECNOLOGIAS</h1>
 
 ###
