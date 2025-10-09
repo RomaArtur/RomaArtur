@@ -45,10 +45,9 @@
 </div>
 
 ###
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RomaArtur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=true&order=2" height="1" alt="languages graph"  />
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RomaArtur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=true&order=2" height="1" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RomaArtur&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RomaArtur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=true&order=2" \>
 </div>
 
 ###
