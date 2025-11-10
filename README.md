@@ -25,29 +25,30 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="70" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="70" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="70" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="70" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="70" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="55" alt="flask logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="70" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="70" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="70" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="css logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="70" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="linux logo"  />
 </div>
 
 ###
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RomaArtur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=true&order=2" height="1" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RomaArtur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=true&order=2" \>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RomaArtur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=github_dark&hide_border=true&order=2" height="1" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RomaArtur&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
